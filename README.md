@@ -1,41 +1,72 @@
-# Welcome to My GitHub Profile! 👋
-
-👋 Hi there! I'm a passionate beginner web and app developer on a journey to master modern development technologies. With a strong foundation in soft skills from **Google** and **PAFLA**, I bring a blend of technical expertise and effective communication to every project.
-
----
-
-## 🎨 About Me
-
-- 🖌️ My creative side is fueled by my experience with the **Techno Kids** course by **Saylani**, where I honed my skills in:
-  - Adobe Photoshop
-  - Adobe Illustrator
-  - Microsoft Word
-  - Microsoft Excel
-- These tools have equipped me with a keen eye for design and detail.
+<!-- Banner or GIF (optional) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Ahmed+Habib+👋;Front-End+Developer+in+the+making+💻;I+love+HTML%2C+CSS%2C+and+clean+UIs+🎨;Learning+Web+Dev+with+AI+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💻 What I'm Working On
+<h1 align="center">Ahmed Habib</h1>
+<h3 align="center">🚀 Passionate Web Developer | AI Learner | SMIT Student</h3>
 
-- 🌱 I’m currently diving deep into **web and app development**, exploring the exciting world of coding and building user-friendly, innovative solutions.
-- 🚀 I'm eager to collaborate, learn, and contribute to the tech community.
-
----
-
-## 🌟 Let's Connect!
-
-- 🤝 I'm always open to new opportunities, collaborations, and ideas.
-- You can reach me out on ahmedhabib101902@gmail.com and ahh.edit.s.real@gmail.com 📫 Feel free to reach out to me or explore my repositories.
-- Let's create something amazing together!
-
----
-
-### Skills and Tools:
-- **Design**: Adobe Photoshop, Illustrator
-- **Productivity**: Microsoft Word, Excel
-- **Web Development**: HTML, CSS, JavaScript (learning in progress)
-- **Soft Skills**: Communication, Teamwork, Problem-Solving
+<p align="center">
+  <a href="https://github.com/AhmedHabib19">
+    <img src="https://komarev.com/ghpvc/?username=AhmedHabib19&label=Profile%20views&color=blue&style=flat" alt="AhmedHabib19" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedhabib19/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-Thank you for visiting my profile! 😊
+### 🧠 About Me
+
+- 🌍 Based in Pakistan  
+- 🎓 Learning at **SMIT** | Student Developer  
+- 💻 Focused on **Front-End Development**  
+- ⚡ Using **AI tools like ChatGPT & Claude** to boost learning  
+- 📱 Created a fully responsive [Jadoo Travel Website Clone](https://ahmedhabib19.github.io/CLONE-WEBSITE-OF-JADOO-TRAVEL-BY-THE-HELP-OF-AI/) using **only HTML & CSS**  
+- 🤝 Looking for beginner-friendly internships and projects  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" alt="Tech Stack" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHabib19&show_icons=true&theme=react&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHabib19&theme=react&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+### 🔥 Recent Project
+
+- 🌐 [Jadoo Travel Landing Page Clone](https://ahmedhabib19.github.io/CLONE-WEBSITE-OF-JADOO-TRAVEL-BY-THE-HELP-OF-AI/)  
+  Built with ❤️ using HTML & CSS only, featuring custom responsiveness, hamburger menu, and animations — all assisted by AI tools!
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedhabib19/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ahh.edit.s.real@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/AhmedHabib19"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">🚀 “Every great developer you know got there by solving problems they were unqualified to solve — until they actually did it.”</p>
+
+<p align="center">⭐️ Thanks for visiting my profile!</p>
