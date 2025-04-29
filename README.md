@@ -39,7 +39,7 @@
 ### 🔥 Featured Project
 
 #### 🌍 [**Jadoo Travel Website Clone**](https://ahmedhabib19.github.io/CLONE-WEBSITE-OF-JADOO-TRAVEL-BY-THE-HELP-OF-AI/)
-> **Fully responsive, animated, and aesthetic website** built using **only HTML + CSS**. Features include **hamburger menu**, **scroll effects**, and **dark mode**.
+> **Fully responsive, animated, and aesthetic website** built using **only HTML + CSS**. Features include **hamburger menu** and **scroll effects**.
 
 ---
 
